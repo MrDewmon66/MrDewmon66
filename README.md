@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrDewmon66
 - 👀 I’m interested in programming and aviation
-- 🌱 I’m currently trying to learn nothing
+- 🌱 I’m currently trying to learn full stack web development
 - 😄 Pronouns: He/Him
 
 
