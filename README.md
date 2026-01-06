@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @MrDewmon66
-- 👀 I’m interested in programming and aviation
-- 🌱 I’m currently trying to learn full stack web development
-- 😄 Pronouns: He/Him
+I'm currently studying a dipolma in tech support with the intentions of getting a bachelor's in ICT.
 
-
+IDK much but I'm here
 <!---
 DewDevelops/DewDevelops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
